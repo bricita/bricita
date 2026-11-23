@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--
   ✦ bricita / Brigitte Vásquez
   Paleta: #090713 · #A68BFF · #FF91E8 · #83F7FF
@@ -8,7 +7,6 @@
 
 <div align="center">
 
-<img src="" width="100%" alt="Estrellas iridiscentes en tonos violeta, rosa y cian" />
 <div align="center">
   <img src="./assets/banner-bri.jpg" width="75%" />
 </div>
@@ -158,21 +156,3 @@ Me encanta investigar, organizar ideas, planificar proyectos, pensar estrategias
 <sub>✧ Pienso con curiosidad · diseño con intención · construyo con propósito ✧</sub>
 
 </div>
-=======
-## Hi there 👋
-
-<!--
-**bricita/bricita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 6cf3daa9be6fb230e27958ea48ae58c32ccbeebb
