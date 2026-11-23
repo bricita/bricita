@@ -8,7 +8,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./assets/banner-bri.jpg" width="75%" />
+  <img src="./assets/banner-bri.jpg" width="100%" />
 </div>
 
 <br />
@@ -42,15 +42,15 @@ Me encanta investigar, organizar ideas, planificar proyectos, pensar estrategias
 
 **Lo que más me mueve:**
 
-- 🔭 Explorar necesidades y oportunidades.
-- 🪐 Conectar investigación, estrategia y planificación.
-- 🎨 Diseñar interfaces con intención y personalidad.
-- 💻 Convertir ideas en productos funcionales.
-- 🤝 Crear en equipo y mejorar en cada iteración.
+- Explorar necesidades y oportunidades.
+- Conectar investigación, estrategia y planificación.
+- Diseñar interfaces con intención y personalidad.
+- Convertir ideas en productos funcionales.
+- Crear en equipo y mejorar en cada iteración.
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="./assets/neon-cat.jpg" width="230" alt="Gatito espacial de colores neón" />
+<img src="./assets/neon-cat.jpg" width="400" alt="Gatito espacial de colores neón" />
 <br />
 <sub>my tiny cosmic companion ✧</sub>
 </td>
@@ -69,7 +69,7 @@ Me encanta investigar, organizar ideas, planificar proyectos, pensar estrategias
 
 <br />
 
-### `03 / my toolbox` 🛠️
+### `03 / my toolbox` 🔮
 
 **Ideas, organización y diseño**
 
@@ -94,7 +94,7 @@ Me encanta investigar, organizar ideas, planificar proyectos, pensar estrategias
 <br />
 
 <div align="center">
-<img src="./assets/cosmic-spark.jpg" width="230" alt="Destello cósmico rosa y cian" />
+<img src="./assets/cosmic-spark.jpg" width="350" alt="Destello cósmico rosa y cian" />
 <br />
 <sub>✦ little spark, big ideas ✦</sub>
 </div>
@@ -128,7 +128,7 @@ Me encanta investigar, organizar ideas, planificar proyectos, pensar estrategias
 
 <br />
 
-### `05 / constellations of code` 📊
+### `05 / constellations of code` 🌟
 
 <div align="center">
 
